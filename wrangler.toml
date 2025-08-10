@@ -1,0 +1,3 @@
+name = "pixeldrain-bypass"
+main = "index.js"
+compatibility_date = "2025-08-10"
